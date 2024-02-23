@@ -1,0 +1,16 @@
+/* styles.css */
+.main-container {
+  -fx-padding: 20px;
+  -fx-spacing: 10px;
+  -fx-alignment: center;
+}
+
+.button-container {
+  -fx-spacing: 20px;
+}
+
+.input-container {
+  -fx-spacing: 5px;
+}
+
+/* Add more styles as needed */

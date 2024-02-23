@@ -1,0 +1,38 @@
+2023.12.14 23:51:40 INFO  Started: Metals version 1.1.0 in folders 'D:\Studying\Level 4\BankingSystem' for client Visual Studio Code 1.85.0.
+2023.12.14 23:51:42 WARN  Build server is not auto-connectable.
+2023.12.14 23:51:42 WARN  no build target for: D:\Studying\Level 4\BankingSystem\src\main\scala\banking\Main.scala
+2023.12.14 23:51:44 INFO  running 'C:\Program Files\Java\jdk-16.0.2\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\LAPTOP\AppData\Local\Temp\metals4495479274028230022\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.12.14 23:51:48 INFO  [info] welcome to sbt 1.9.7 (Oracle Corporation Java 16.0.2)
+2023.12.14 23:51:49 INFO  no build target found for D:\Studying\Level 4\BankingSystem\src\main\scala\banking\Main.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.12.14 23:51:51 INFO  [info] loading global plugins from C:\Users\LAPTOP\.sbt\1.0\plugins
+2023.12.14 23:51:56 INFO  time: code lens generation in 11s
+2023.12.14 23:51:56 INFO  time: code lens generation in 14s
+2023.12.14 23:51:57 INFO  [info] loading settings for project bankingsystem-build-build from metals.sbt ...
+2023.12.14 23:51:57 INFO  [info] loading project definition from D:\Studying\Level 4\BankingSystem\project\project
+2023.12.14 23:52:01 INFO  [info] loading settings for project bankingsystem-build from metals.sbt ...
+2023.12.14 23:52:01 INFO  [info] loading project definition from D:\Studying\Level 4\BankingSystem\project
+2023.12.14 23:52:04 INFO  [success] Generated .bloop\bankingsystem-build.json
+2023.12.14 23:52:04 INFO  [success] Total time: 3 s, completed Dec 14, 2023, 11:52:04 PM
+2023.12.14 23:52:07 INFO  [info] loading settings for project root from build.sbt ...
+2023.12.14 23:52:07 INFO  [info] set current project to BankingSystem (in build file:/D:/Studying/Level%204/BankingSystem/)
+2023.12.14 23:52:07 INFO  [success] Generated .bloop\root-test.json
+2023.12.14 23:52:07 INFO  [success] Generated .bloop\root.json
+2023.12.14 23:52:07 INFO  [success] Total time: 0 s, completed Dec 14, 2023, 11:52:07 PM
+2023.12.14 23:52:07 INFO  time: ran 'sbt bloopInstall' in 23s
+2023.12.14 23:52:07 INFO  Attempting to connect to the build server...
+2023.12.14 23:52:07 INFO  Bloop uses C:\Program Files\Java\jdk-16.0.2 defined at C:\Users\LAPTOP\.bloop\bloop.json
+2023.12.14 23:52:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Studying\Level 4\BankingSystem\.metals\bsp.trace.json or C:\Users\LAPTOP\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.12.14 23:52:10 INFO  Attempting to connect to the build server...
+2023.12.14 23:52:10 INFO  Bloop uses C:\Program Files\Java\jdk-16.0.2 defined at C:\Users\LAPTOP\.bloop\bloop.json
+2023.12.14 23:52:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Studying\Level 4\BankingSystem\project\.metals\bsp.trace.json or C:\Users\LAPTOP\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.12.14 23:52:10 INFO  time: Connected to build server in 2.98s
+2023.12.14 23:52:10 INFO  Connected to Build server: Bloop v1.5.11
+2023.12.14 23:52:10 INFO  time: Imported build in 0.13s
+2023.12.14 23:52:15 INFO  time: indexed workspace in 5s
+2023.12.14 23:52:16 INFO  compiling root (8 scala sources)
+2023.12.14 23:52:22 INFO  time: compiled root in 6.44s
+2023.12.14 23:52:36 INFO  Shutting down server
+2023.12.14 23:52:36 INFO  shutting down Metals
+2023.12.14 23:52:36 INFO  Shut down connection with build server.
+2023.12.14 23:52:36 INFO  Shut down connection with build server.
+2023.12.14 23:52:36 INFO  Exiting server
